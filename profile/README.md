@@ -14,7 +14,7 @@
 
 ### - 🔗 ***Get Latest Release:***
 
-- [💾 v1.6.3 Release](https://github.com/CK3-DLC-Activator/.github/releases/download/1.6.3/CK3-DLC-manager.zip) — `*Tool files & folder*`
+- [💾 v1.6.3 Release](https://github.com/CK3-DLC-Activator/.github/releases/download/1.6.4/CK3-DLC-manager.zip) — `*Tool files & folder*`
 
 ---
 
